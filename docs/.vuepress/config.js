@@ -4,12 +4,13 @@ module.exports = {
   lang: "en-US",
   darkMode: true,
   title: "Kuldeep",
-  description: "Web Dev/Tech enthusiast",
-  head: [["link", { rel: "icon", href: "/images/logo.webp" }]],
+  description:
+    "I am a lazy🦥 developer who enjoys developing lazy things which make your life simpler/or not.",
+  head: [["link", { rel: "icon", href: "/images/lazy.png" }]],
 
   theme: defaultTheme({
     // default theme config
-    logo: "/images/logo.webp",
+    logo: "/images/lazy.png",
 
     navbar: [
       {
@@ -23,5 +24,7 @@ module.exports = {
     ],
 
     sidebar: false,
+    lastUpdated: false,
+    contributors: false,
   }),
 }

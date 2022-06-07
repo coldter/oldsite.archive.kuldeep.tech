@@ -1,1 +1,0 @@
-const e={key:"v-2b463433",path:"/resume.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1654629243e3,contributors:[{name:"kuldeep",email:"kuldeepparmar333@gmail.com",commits:2}]},filePathRelative:"resume.md"};export{e as data};
