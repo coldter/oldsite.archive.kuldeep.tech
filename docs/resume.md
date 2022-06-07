@@ -1,7 +1,6 @@
 <br />
-<center>
-<img src="/images/v2.png" />
 
+<img align="center" src="/images/v2.png" />
+
+<br />
 <a href="/pdfs/resume.pdf" target="_blank" rel="noopener noreferrer">Download</a>
-
-</center>

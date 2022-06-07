@@ -1,0 +1,1 @@
+import{_ as r,o as n,c as t,b as e}from"./app.0a61129d.js";var o="/images/v2.png";const s={},_=e("img",{align:"center",src:o},null,-1),a=e("p",null,[e("a",{align:"center",href:"/pdfs/resume.pdf",target:"_blank",rel:"noopener noreferrer"},"Download")],-1),c=[_,a];function l(i,m){return n(),t("div",null,c)}var f=r(s,[["render",l],["__file","resume.html.vue"]]);export{f as default};

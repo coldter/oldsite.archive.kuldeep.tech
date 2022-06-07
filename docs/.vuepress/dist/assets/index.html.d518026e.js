@@ -1,1 +1,0 @@
-const t={key:"v-8daa1a0e",path:"/",title:"hi",lang:"en-US",frontmatter:{home:!0,heroImage:"/images/logo.png",sidebar:!1,title:"hi",actions:[{text:"Contact",link:"mailto:hi@kuldeep.tech",type:"primary"},{text:"GitHub",link:"https://github.com/coldter",type:"secondary"}]},excerpt:"",headers:[],git:{},filePathRelative:"README.md"};export{t as data};
