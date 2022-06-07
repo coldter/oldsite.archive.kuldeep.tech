@@ -5,11 +5,11 @@ module.exports = {
   darkMode: true,
   title: "Kuldeep",
   description: "Web Dev/Tech enthusiast",
-  head: [["link", { rel: "icon", href: "/images/logo.png" }]],
+  head: [["link", { rel: "icon", href: "/images/logo.webp" }]],
 
   theme: defaultTheme({
     // default theme config
-    logo: "/images/logo.png",
+    logo: "/images/logo.webp",
 
     navbar: [
       {

@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /images/logo.png
+heroImage: /images/logo.webp
 sidebar: false
 title: hi
 
